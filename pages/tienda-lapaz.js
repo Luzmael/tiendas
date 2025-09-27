@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 import { createClient } from '@supabase/supabase-js'
 import Head from 'next/head'
 
-// Configuración específica de esta tienda
+// Configuración específica de esta tienda Amoo las tetas grandes
 const STORE_CONFIG = {
   uuid: 'a327e09a-0f45-4327-abb6-13e0f1fab85d',
   name: 'Tienda la Paz',
